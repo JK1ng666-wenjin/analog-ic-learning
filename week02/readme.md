@@ -21,9 +21,11 @@
 | 改 λ | W = 10 µm，λ = 0.05 | 1.3 V → 3.0 V 涨幅由 3.3% 升到 8.0% |
 
 <img width="695" height="536" alt="deea3805-1e7c-4960-add7-ff61a6c81215" src="https://github.com/user-attachments/assets/73794720-b85b-4520-911f-afd2cb68e0f0" />
+表一 基准 | W = 10 µm，λ = 0.02
 <img width="700" height="536" alt="856d7946-17e6-4257-be6e-8d6264509373" src="https://github.com/user-attachments/assets/b9950434-fc1e-446a-9799-23cd67afaa38" />
+表二 改宽 | W = 40 µm，λ = 0.02
 <img width="698" height="535" alt="3b143247-0825-43a8-8dff-9146c9124c52" src="https://github.com/user-attachments/assets/6589b1a2-35b6-445d-bb90-051064522385" />
-
+表三 改 λ | W = 10 µm，λ = 0.05 
 
 
 
