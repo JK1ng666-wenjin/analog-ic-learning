@@ -20,9 +20,14 @@
 | 3 ms（3τ） | 4.75 V | 4.75 V（95%） |
 | 5 ms（5τ） | 4.97 V | 4.97 V（99.3%） |
 
-![RC 充电曲线](rc_curve.png)
+<img width="397" height="124" alt="cb4d564c-d9e7-408a-b909-098560f0b9f7" src="https://github.com/user-attachments/assets/30343e7f-d911-4830-875d-642e0c59f7a4" />
 
-> 图由本人 ngspice 仿真数据绘制。
+
+<img width="700" height="550" alt="0ba8ec4c-fb8e-434e-882e-53ffe71e24ab" src="https://github.com/user-attachments/assets/79bd91f3-7f0f-4b09-9c85-f67db5d6fca0" />
+
+
+
+
 
 ## 结论
 
