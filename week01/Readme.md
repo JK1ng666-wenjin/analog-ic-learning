@@ -45,6 +45,6 @@ ngspice -b rc_plot.cir   # 导出完整波形数据
 python3 plot_rc.py       # 生成 rc_curve.png
 ```
 
-## 踩坑记录
+## 使用记录
 
 - ngspice 的 `.tran` 第一个参数是时间步长，不能为 0；本网表取 1 µs，保证 1/3/5 ms 的测量点都能采到。
