@@ -20,7 +20,8 @@
 | 改宽 | W = 40 µm，λ = 0.02 | 平台电流 4.2 mA，为基准的 4 倍 |
 | 改 λ | W = 10 µm，λ = 0.05 | 1.3 V → 3.0 V 涨幅由 3.3% 升到 8.0% |
 
-![MOS 输出特性与 λ 对比](week02_summary.png)
+<img width="695" height="536" alt="deea3805-1e7c-4960-add7-ff61a6c81215" src="https://github.com/user-attachments/assets/73794720-b85b-4520-911f-afd2cb68e0f0" />
+
 
 > 图由本人 ngspice 仿真数据绘制（WSLg 图形窗口渲染异常，截图不可用）。
 
