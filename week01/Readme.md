@@ -25,6 +25,7 @@
 
 <img width="700" height="550" alt="0ba8ec4c-fb8e-434e-882e-53ffe71e24ab" src="https://github.com/user-attachments/assets/79bd91f3-7f0f-4b09-9c85-f67db5d6fca0" />
 
+ngspice仿真得到的数据与数据图
 
 
 
