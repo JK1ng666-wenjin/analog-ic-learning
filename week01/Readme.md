@@ -46,5 +46,4 @@ python3 plot_rc.py       # 生成 rc_curve.png
 
 ## 踩坑记录
 
-- `.tran 0 5m` 会报 TSTEP is invalid，时间步长不能写 0，改为 `.tran 1u 5m`；
-- 批处理模式（-b）下不能用 plot 命令，改用 wrdata 导出数据、再用 Python 画图。
+- ngspice 的 `.tran` 第一个参数是时间步长，不能为 0；本网表取 1 µs，保证 1/3/5 ms 的测量点都能采到。
